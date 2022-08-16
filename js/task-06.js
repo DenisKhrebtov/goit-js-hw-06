@@ -11,6 +11,3 @@ function onInputBlur(event) {
     inputEl.classList.remove('valid');
   }
 }
-
-//   if (+inputEl.textContent.value > +inputEl.length(0)) {
-//     return inputEl.classList.add('#validation-input.valid');
